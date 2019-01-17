@@ -1,0 +1,20 @@
+library IEEE;
+use IEEE.STD_LOGIC_1164.ALL;
+use IEEE.STD_LOGIC_UNSIGNED.ALL;
+
+ENTITY contador_UP IS
+				PORT(Clock,enable,reset: IN std_logic;
+											Q: Buffered Std_logic_vector(7 downto 0));
+END contador_UP;
+
+ARCHITECTURE sol OF contador_UP IS
+BEGIN
+	Process(Clock,reset)
+	BEGIN 
+			If reset='0'0 then Q<="00000000";
+			elsif (Clock'event nd Clock='1') then
+				If enable='1' Q<=Q+1; end if;
+			end if;
+	END Process;
+END sol;
+	

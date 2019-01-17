@@ -1,0 +1,282 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Josue Sanchez/Documents/proyectofinal/proyecto2/simulation/qsim
+Ecomparador_monedas
+Z1 w1544983042
+Z2 DPx4 ieee 16 vital_primitives 0 22 G>kiXP8Q9dRClKfK1Zn7j1
+Z3 DPx8 cyclonev 18 cyclonev_atom_pack 0 22 PDz30Zoj;e1JEj1l7dCiT1
+Z4 DPx4 ieee 12 vital_timing 0 22 J>EBealN09f8GzldA[z2>3
+Z5 DPx8 cyclonev 19 cyclonev_components 0 22 O_kVZAFaN7XDl67flUT[n1
+Z6 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z7 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z8 DPx12 altera_lnsim 23 altera_lnsim_components 0 22 ;`SHL]^j4UaADA9ENAN^]0
+R0
+Z9 8proyecto.vho
+Z10 Fproyecto.vho
+l0
+L36
+VJ[Ya_dVbl2QZC`YTE=`4H0
+!s100 OFUhcNSnX1gh73LLN<WDR3
+Z11 OV;C;10.5b;63
+32
+Z12 !s110 1544983047
+!i10b 1
+Z13 !s108 1544983047.000000
+Z14 !s90 -work|work|proyecto.vho|
+Z15 !s107 proyecto.vho|
+!i113 1
+Z16 o-work work
+Z17 tExplicit 1 CvgOpt 0
+Astructure
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+DEx4 work 18 comparador_monedas 0 22 J[Ya_dVbl2QZC`YTE=`4H0
+l84
+L56
+V:U;bd_6ECT;BIolG^^0TP1
+!s100 _VQI2bd^h?;3CIN;iIlXQ1
+R11
+32
+R12
+!i10b 1
+R13
+R14
+R15
+!i113 1
+R16
+R17
+Ecomparador_monedas_vhd_vec_tst
+Z18 w1544983040
+R6
+R7
+R0
+Z19 8Waveform.vwf.vht
+Z20 FWaveform.vwf.vht
+l0
+L31
+V5cNIOa9l0IOLVGTX65QiC3
+!s100 B<7kIV_3hK2Nna=zFBdLH2
+R11
+32
+R12
+!i10b 1
+R13
+Z21 !s90 -work|work|Waveform.vwf.vht|
+Z22 !s107 Waveform.vwf.vht|
+!i113 1
+R16
+R17
+Acomparador_monedas_arch
+R6
+R7
+DEx4 work 30 comparador_monedas_vhd_vec_tst 0 22 5cNIOa9l0IOLVGTX65QiC3
+l50
+L33
+VB4n<]H9n]Q1d[ZZCl:LQC0
+!s100 ;0Q3eKOEZgUL@zH^H795l1
+R11
+32
+R12
+!i10b 1
+R13
+R21
+R22
+!i113 1
+R16
+R17
+Emss
+Z23 w1545265014
+R3
+R5
+R8
+R2
+Z24 DPx6 altera 11 dffeas_pack 0 22 Dg`GWTC`^Q8GNSMPeo22;3
+R4
+R6
+R7
+Z25 DPx6 altera 28 altera_primitives_components 0 22 _LNC5n6B?5VN@W;M4Dg@k1
+Z26 dC:/Users/Josue Sanchez/Downloads/proyecto2/simulation/qsim
+R9
+R10
+l0
+L38
+VlKo`Z`H?M<QGn^UR;VhoS0
+!s100 OdH^QKO6IigAD[LHhHRDf1
+R11
+32
+Z27 !s110 1545265015
+!i10b 1
+Z28 !s108 1545265015.000000
+R14
+R15
+!i113 1
+R16
+R17
+Astructure
+R3
+R5
+R8
+R2
+R24
+R4
+R6
+R7
+R25
+DEx4 work 3 mss 0 22 lKo`Z`H?M<QGn^UR;VhoS0
+l210
+L68
+V@zY9O^21Ml3>HVBPZgGkN2
+!s100 >EUf7kaoJQGPaYK;KHeXF3
+R11
+32
+R27
+!i10b 1
+R28
+R14
+R15
+!i113 1
+R16
+R17
+Emss_vhd_vec_tst
+Z29 w1545265013
+R6
+R7
+R26
+Z30 8Waveform1.vwf.vht
+Z31 FWaveform1.vwf.vht
+l0
+L31
+VhJ8iNk_Z3e_C]5S`dmFVb0
+!s100 D]A=?2D:BVCJd[jA73UjE0
+R11
+32
+R27
+!i10b 1
+R28
+Z32 !s90 -work|work|Waveform1.vwf.vht|
+Z33 !s107 Waveform1.vwf.vht|
+!i113 1
+R16
+R17
+Amss_arch
+R6
+R7
+DEx4 work 15 mss_vhd_vec_tst 0 22 hJ8iNk_Z3e_C]5S`dmFVb0
+l90
+L33
+VM:zbo;Fle]cGBzZz_:kIl0
+!s100 gIaeoLBS]aUY9<Yek9<PG0
+R11
+32
+R27
+!i10b 1
+R28
+R32
+R33
+!i113 1
+R16
+R17
+Esimulacion
+Z34 w1547165888
+R3
+R5
+R8
+R2
+R24
+R4
+R6
+R7
+R25
+Z35 dC:/Users/Josue Sanchez/Desktop/Digit/proyecto2 - Copy/simulation/qsim
+R9
+R10
+l0
+L38
+V=:z=?TUSKa[UbjXZeUk^b2
+!s100 iM]M=CfX;7;DQ8[61^giS2
+R11
+32
+Z36 !s110 1547165889
+!i10b 1
+Z37 !s108 1547165889.000000
+R14
+R15
+!i113 1
+R16
+R17
+Astructure
+R3
+R5
+R8
+R2
+R24
+R4
+R6
+R7
+R25
+DEx4 work 10 simulacion 0 22 =:z=?TUSKa[UbjXZeUk^b2
+l251
+L68
+VlF<hdH2BHPII:h[co8V8O1
+!s100 mZHoPOMIh]KG2F80SkObL3
+R11
+32
+R36
+!i10b 1
+R37
+R14
+R15
+!i113 1
+R16
+R17
+Esimulacion_vhd_vec_tst
+Z38 w1547165887
+R6
+R7
+R35
+R30
+R31
+l0
+L31
+VAU?X4leem1_cKSRblDaQL3
+!s100 4=0M6g?EiAej>?<DAa]0Q2
+R11
+32
+R36
+!i10b 1
+R37
+R32
+R33
+!i113 1
+R16
+R17
+Asimulacion_arch
+R6
+R7
+Z39 DEx4 work 22 simulacion_vhd_vec_tst 0 22 AU?X4leem1_cKSRblDaQL3
+l90
+L33
+VoZ?SaTUWAzbP9n=K`^i1;1
+!s100 L^Fi9T`:F=134Hg_BE:<d1
+R11
+32
+R36
+!i10b 1
+R37
+R32
+R33
+!i113 1
+R16
+R17
