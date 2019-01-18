@@ -1,0 +1,141 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "Led_Inicio",
+					"strict" : false
+				},
+				{
+					"name" : "stopN",
+					"strict" : false
+				},
+				{
+					"name" : "n_viajesQ[4]",
+					"strict" : false
+				},
+				{
+					"name" : "n_viajesQ[3]",
+					"strict" : false
+				},
+				{
+					"name" : "n_viajesQ[2]",
+					"strict" : false
+				},
+				{
+					"name" : "n_viajesQ[1]",
+					"strict" : false
+				},
+				{
+					"name" : "n_viajesQ[0]",
+					"strict" : false
+				},
+				{
+					"name" : "resetRG",
+					"strict" : false
+				},
+				{
+					"name" : "n_viajes[4]",
+					"strict" : false
+				},
+				{
+					"name" : "n_viajes[3]",
+					"strict" : false
+				},
+				{
+					"name" : "n_viajes[2]",
+					"strict" : false
+				},
+				{
+					"name" : "n_viajes[1]",
+					"strict" : false
+				},
+				{
+					"name" : "n_viajes[0]",
+					"strict" : false
+				},
+				{
+					"name" : "enN",
+					"strict" : false
+				},
+				{
+					"name" : "resetNN",
+					"strict" : false
+				},
+				{
+					"name" : "stopM",
+					"strict" : false
+				},
+				{
+					"name" : "n_monedas[2]",
+					"strict" : false
+				},
+				{
+					"name" : "n_monedas[1]",
+					"strict" : false
+				},
+				{
+					"name" : "n_monedas[0]",
+					"strict" : false
+				},
+				{
+					"name" : "enM",
+					"strict" : false
+				},
+				{
+					"name" : "resetD",
+					"strict" : false
+				},
+				{
+					"name" : "pasaMoneda",
+					"strict" : false
+				},
+				{
+					"name" : "LedMonedaIn",
+					"strict" : false
+				},
+				{
+					"name" : "ET",
+					"strict" : false
+				},
+				{
+					"name" : "Clock",
+					"strict" : false
+				},
+				{
+					"name" : "moneda",
+					"strict" : false
+				},
+				{
+					"name" : "Puerta",
+					"strict" : false
+				},
+				{
+					"name" : "Pasa",
+					"strict" : false
+				},
+				{
+					"name" : "Lectura",
+					"strict" : false
+				},
+				{
+					"name" : "Start",
+					"strict" : false
+				},
+				{
+					"name" : "Reset",
+					"strict" : false
+				},
+				{
+					"name" : "Comprar",
+					"strict" : false
+				},
+				{
+					"name" : "RetirarT",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
